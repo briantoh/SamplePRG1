@@ -1,6 +1,6 @@
 # BMI_BMR_Calculator.py
 # This program calculates the body mass index and basal metabolic rate
-
+# Brian Toh
 # Calculate BMI
 weight = float(input('Enter weight(kg): '))
 height = input('Enter height(m): ')
